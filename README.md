@@ -11,15 +11,15 @@ The supplemental material is available for download under [GitHub Releases](http
 
 
 # Wikipedia corpus
-wget https://github.com/masukislam/DS8008_NLP/releases/download/1.0/enwiki-20191101-pages-articles.weighted.10k.jsonl.bz2
+wget https://github.com/masukislam/DS8008_NLP/releases/download/Models/enwiki-20191101-pages-articles.weighted.10k.jsonl.bz2
 bzip2 enwiki-20191101-pages-articles.weighted.10k.jsonl.bz2
 
 # Train and test data
-wget https://github.com/masukislam/DS8008_NLP/releases/download/1.0/train_testdata__4folds.tar.gz
+wget https://github.com/masukislam/DS8008_NLP/releases/download/Model/train_testdata__4folds.tar.gz
 tar -xzf train_testdata__4folds.tar.gz
 
 # Models
-wget https://github.com/masukislam/DS8008_NLP/releases/download/1.0/model_wiki.bert_base__joint__seq512.tar.gz
+wget https://github.com/masukislam/DS8008_NLP/releases/download/Model/model_wiki.bert_base__joint__seq512.tar.gz
 tar -xzf model_wiki.bert_base__joint__seq512.tar.gz
 ```
 
