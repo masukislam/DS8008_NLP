@@ -1,6 +1,6 @@
 # Semantic Relations between Wikipedia Articles
 
-<a href="https://https://github.com/masukislam/DS8008_NLP/blob/master/demoRun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://github.com/masukislam/DS8008_NLP/blob/master/demoRun.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 Implementation, trained models and result data for the paper **Pairwise Multi-Class Document Classification for Semantic Relations between Wikipedia Articles** [(PDF on Arxiv)](https://arxiv.org/abs/2003.09881). 
